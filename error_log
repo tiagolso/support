@@ -1,0 +1,39 @@
+[01-Nov-2021 23:49:14 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/sffjcp8a/public_html/support/include/pear/Mail/mail.php on line 156
+[01-Nov-2021 23:49:14 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/sffjcp8a/public_html/support/include/pear/Mail/mail.php on line 156
+[01-Nov-2021 23:49:14 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/sffjcp8a/public_html/support/include/pear/Mail/mail.php on line 156
+[01-Nov-2021 23:53:09 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/sffjcp8a/public_html/support/include/pear/Mail/mail.php on line 156
+[02-Nov-2021 15:21:54 UTC] PHP Parse error:  syntax error, unexpected '__' (T_STRING), expecting ',' or ';' in /home/sffjcp8a/public_html/support/include/client/register.inc.php on line 18
+[02-Nov-2021 15:22:03 UTC] PHP Parse error:  syntax error, unexpected '__' (T_STRING), expecting ',' or ';' in /home/sffjcp8a/public_html/support/include/client/register.inc.php on line 18
+[02-Nov-2021 15:22:10 UTC] PHP Parse error:  syntax error, unexpected '__' (T_STRING), expecting ',' or ';' in /home/sffjcp8a/public_html/support/include/client/register.inc.php on line 18
+[02-Nov-2021 17:08:25 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: List indices should be integers in /home/sffjcp8a/public_html/support/include/class.util.php:205
+Stack trace:
+#0 /home/sffjcp8a/public_html/support/include/class.forms.php(84): ListObject->offsetExists('message')
+#1 /home/sffjcp8a/public_html/support/tickets.php(39): Form->getField('message')
+#2 {main}
+  thrown in /home/sffjcp8a/public_html/support/include/class.util.php on line 205
+[02-Nov-2021 17:08:48 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: List indices should be integers in /home/sffjcp8a/public_html/support/include/class.util.php:205
+Stack trace:
+#0 /home/sffjcp8a/public_html/support/include/class.forms.php(84): ListObject->offsetExists('message')
+#1 /home/sffjcp8a/public_html/support/tickets.php(39): Form->getField('message')
+#2 {main}
+  thrown in /home/sffjcp8a/public_html/support/include/class.util.php on line 205
+[02-Nov-2021 17:08:52 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: List indices should be integers in /home/sffjcp8a/public_html/support/include/class.util.php:205
+Stack trace:
+#0 /home/sffjcp8a/public_html/support/include/class.forms.php(84): ListObject->offsetExists('message')
+#1 /home/sffjcp8a/public_html/support/tickets.php(39): Form->getField('message')
+#2 {main}
+  thrown in /home/sffjcp8a/public_html/support/include/class.util.php on line 205
+[02-Nov-2021 17:09:30 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: List indices should be integers in /home/sffjcp8a/public_html/support/include/class.util.php:205
+Stack trace:
+#0 /home/sffjcp8a/public_html/support/include/class.forms.php(84): ListObject->offsetExists('message')
+#1 /home/sffjcp8a/public_html/support/tickets.php(39): Form->getField('message')
+#2 {main}
+  thrown in /home/sffjcp8a/public_html/support/include/class.util.php on line 205
+[15-Nov-2021 17:39:00 UTC] PHP Fatal error:  Can't inherit abstract function TwoFactorAuthenticationBackend::send() (previously declared abstract in Staff2FABackend) in /home/sffjcp8a/public_html/support/include/class.2fa.php on line 173
+[15-Nov-2021 17:39:03 UTC] PHP Fatal error:  Can't inherit abstract function TwoFactorAuthenticationBackend::send() (previously declared abstract in Staff2FABackend) in /home/sffjcp8a/public_html/support/include/class.2fa.php on line 173
+[15-Nov-2021 17:39:19 UTC] PHP Fatal error:  Can't inherit abstract function TwoFactorAuthenticationBackend::send() (previously declared abstract in Staff2FABackend) in /home/sffjcp8a/public_html/support/include/class.2fa.php on line 173
+[15-Nov-2021 17:40:04 UTC] PHP Fatal error:  Can't inherit abstract function TwoFactorAuthenticationBackend::send() (previously declared abstract in Staff2FABackend) in /home/sffjcp8a/public_html/support/include/class.2fa.php on line 173
+[16-Nov-2021 00:23:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/sffjcp8a/public_html/support/include/class.auth.php on line 1105
+[20-Nov-2021 11:40:17 UTC] PHP Warning:  session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) in /home/sffjcp8a/public_html/support/include/class.ostsession.php on line 87
+[20-Nov-2021 11:40:56 UTC] PHP Warning:  session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) in /home/sffjcp8a/public_html/support/include/class.ostsession.php on line 87
+[20-Nov-2021 11:41:24 UTC] PHP Warning:  session_start(): Failed to read session data: user (path: /var/cpanel/php/sessions/ea-php74) in /home/sffjcp8a/public_html/support/include/class.ostsession.php on line 87
